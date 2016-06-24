@@ -1,0 +1,6 @@
+--------------- Build Started: 06/03/2016 15:42:10 Project: BLE Lab 2, Configuration: ARM GCC 4.9-2015-q1-update Debug ---------------
+cydsfit.exe -.appdatapath "Z:\Users\Harris.He\AppData\Local\Cypress Semiconductor\PSoC Creator\3.3" -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -p "H:\Dropdox\Dropbox\PSoC_CY8CKIT042\LabHA_BLE\Lab2HA\BLEConnetion Lab2\BLE Lab 2.cydsn\BLE Lab 2.cyprj" -d CY8C4247LQI-BL483 -s "H:\Dropdox\Dropbox\PSoC_CY8CKIT042\LabHA_BLE\Lab2HA\BLEConnetion Lab2\BLE Lab 2.cydsn\Generated_Source\PSoC4" -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
+Elaborating Design...
+ADD: sdb.M0059: error: Error in component: cy_boot. The cy_boot_v4_20 component (cy_boot) is not compatible with the selected device. Please check the component datasheet for details on updating to a compatible component.
+Error: cdf.M0005: CyDsFit aborted due to errors, please address all errors and rerun CyDsFit. (App=cydsfit)
+--------------- Build Failed: 06/03/2016 15:42:14 ---------------
